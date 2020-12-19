@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 40px;
+}
+.jumbotron {
+  padding: 10px;
+  text-align: center;
+  background: #bc401a;
+  color: white;
+  font-size: 30px;
+}
+.card-header{
+  background: #282bd1;
+}
+.card-body{
+  background: #e6ae15;
+}
